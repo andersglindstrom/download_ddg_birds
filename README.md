@@ -1,6 +1,6 @@
 I recently tried the first notebook for the fast.ai course. This is the notebook:
 
-  . https://github.com/fastai/course22/blob/master/00-is-it-a-bird-creating-a-model-from-your-own-data.ipynb
+  * https://github.com/fastai/course22/blob/master/00-is-it-a-bird-creating-a-model-from-your-own-data.ipynb
 
 It didn't work. `search_images` failed with an HTTP error code 403.
 
