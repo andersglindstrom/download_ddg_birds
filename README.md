@@ -6,6 +6,6 @@ It didn't work. `search_images` failed with an HTTP error code 403.
 
 I found this page that described how to download DuckDuckGo images:
 
-   . https://www.kaggle.com/code/patriciabrezeanu/how-to-create-an-images-dataset-with-duckduckgo
+  * https://www.kaggle.com/code/patriciabrezeanu/how-to-create-an-images-dataset-with-duckduckgo
 
 There is a Jupyter notebook in this repo that shows how to fix the failing part of the 'Is it a bird' notebook.
